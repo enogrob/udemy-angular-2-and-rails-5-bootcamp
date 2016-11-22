@@ -15,13 +15,14 @@ Learn how to build a real world Angular 2 application that utilizes multiple Rub
 
 ## Topics
 ```
+Section: 1
 0 / 5
 Project Introduction
 [x] 1. The Angular + Rails Application We're Going to Build 4:22
 [x] 2. Application Architecture for an Angular + Rails Application 8:22
-[ ] 3. Monolith vs Microservice Architecture Deep Dive 10:33
-[ ] 4. The Role of Services in Microservice Architecture 8:32
-[ ] 5. The Role of Components in Microservices 6:55
+[x] 3. Monolith vs Microservice Architecture Deep Dive 10:33
+[x] 4. The Role of Services in Microservice Architecture 8:32
+[x] 5. The Role of Components in Microservices 6:55
 
 Section: 2
 0 / 2
