@@ -27,8 +27,8 @@ Project Introduction
 Section: 2
 0 / 2
 System configuration for Angular 2 Application
-[ ] 6. Configuring a System to Run Angular 2 Applications 4:25
-[ ] 7. Generating an Angular 2 Application from Scratch 13:22
+[x] 6. Configuring a System to Run Angular 2 Applications 4:25
+[x] 7. Generating an Angular 2 Application from Scratch 13:22
 
 Section: 3
 0 / 4
